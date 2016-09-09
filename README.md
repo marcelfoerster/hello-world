@@ -1,4 +1,4 @@
 # hello-world
-Description entered here.
+Descrption enterd here.
 
 Alpha, beta, gamma, delta
